@@ -1,0 +1,7 @@
+{
+  "name": "Classroom Multi-Tool Kit",
+  "description": "A comprehensive classroom toolkit featuring a QR code generator, a random student picker, an adjustable classroom timer with sound alerts, and a 3D-styled dice roller.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
